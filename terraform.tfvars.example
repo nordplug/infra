@@ -1,0 +1,4 @@
+aws_region  = "eu-north-1"
+account_id  = "714876270401"
+environment = "prod"
+app_name    = "nordplug"
